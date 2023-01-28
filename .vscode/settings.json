@@ -1,0 +1,13 @@
+{
+  "C_Cpp.errorSquiggles": "Disabled",
+  "files.associations": {
+    "*.ejs": "html",
+    "vector": "cpp",
+    "iostream": "cpp",
+    "xstring": "cpp",
+    "xtree": "cpp",
+    "system_error": "cpp",
+    "xlocale": "cpp",
+    "ostream": "cpp"
+  }
+}
